@@ -6,8 +6,7 @@
 
 <p>Time-blocks will be highlighted in different colors, depending on whether the time is in the past, present or future. (past- grey, present- red, future-green.</p>
 
-<p> Page showing all time-blocks in the past:</p>
 
- <img src=".shedule.gif"/>
 
- 
+
+
